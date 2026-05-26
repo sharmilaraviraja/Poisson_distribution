@@ -26,7 +26,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
-import math
+import math 
 
 # Observed frequencies
 x = [0, 1, 2, 3, 4, 5]
